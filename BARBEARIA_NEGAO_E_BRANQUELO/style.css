@@ -184,13 +184,41 @@ td, th {
 	margin: 0 20px 20px 0;
 }
 
-.imagembeneficios{
-	width: 100%;
+.mapa{
+	padding: 3em 0;
 }
 
 .mapa p{
 	margin: 0 0 2em;
 	text-align: center
+}
+
+.beneficios{
+     padding: 3em 0;
+}
+
+.conteudo-beneficios{
+	width: 640px;
+	margin: 0 auto;
+
+}
+
+.lista-beneficios{
+	width: 40%;
+    display: inline-block;
+	vertical-align: top;
+}
+
+.imagem-beneficios{
+	width: 60%;
+}
+
+.itens{
+	line-height: 1.5;
+}
+
+.itens:first-child{
+	font-weight: bold;
 }
 
 .video{
